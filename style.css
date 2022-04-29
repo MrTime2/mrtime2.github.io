@@ -1,4 +1,7 @@
 h1{
   color: blue;
-  border-color: pink;
+}
+
+body {
+  background-color: pink;
 }
